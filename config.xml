@@ -26,6 +26,8 @@
     <icon src="touch-icon-114x114.png" gap:platform="ios" width="114" height="114" />
     <icon src="touch-icon-144x144.png" gap:platform="ios" width="144" height="144" />
 
+    <gap:splash src="splash.png" />
+
     <feature name="http://api.phonegap.com/1.0/network"/>
 
     <access origin="https://www.lizzynet.de" />

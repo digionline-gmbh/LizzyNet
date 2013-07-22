@@ -17,7 +17,7 @@
         DigiOnline GmbH
     </author>
 
-    <preference name="phonegap-version" value="3.0.0" />
+<!--    <preference name="phonegap-version" value="3.0.0" /> -->
 
     <preference name="fullscreen" value="true" />
     <preference name="ios-statusbarstyle" value="black-translucent" />
